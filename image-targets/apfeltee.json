@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 114,
+    "width": 1067,
+    "height": 1423,
+    "isRotated": false,
+    "originalWidth": 1295,
+    "originalHeight": 1423
+  },
+  "imagePath": "image-targets/apfeltee_luminance.png",
+  "metadata": null,
+  "name": "apfeltee",
+  "resources": {
+    "originalImage": "apfeltee_original.png",
+    "croppedImage": "apfeltee_cropped.png",
+    "thumbnailImage": "apfeltee_thumbnail.png",
+    "luminanceImage": "apfeltee_luminance.png"
+  },
+  "created": 1795187985369,
+  "updated": 1795189479873
+}
